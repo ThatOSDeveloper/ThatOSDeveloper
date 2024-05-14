@@ -1,0 +1,4 @@
+- Hi, I’m @ThatOSDeveloper or Owen Winchell
+- I’m interested in building a custom OS from scratch
+- I’m currently learning freestanding C
+- Pronouns: he/him
