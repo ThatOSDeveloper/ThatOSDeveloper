@@ -1,4 +1,4 @@
-- Hi, I’m @ThatOSDeveloper or Owen Winchell
+- Hi, I’m @ThatOSDeveloper
 - I’m interested in building a custom OS from scratch and running doom on the ben eater 65c02 breadboard computer
 - I’m currently learning freestanding C and 6502 assembly
 - Pronouns: he/him
