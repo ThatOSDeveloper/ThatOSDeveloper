@@ -1,3 +1,3 @@
 - Hi, I’m @ThatOSDeveloper
-- I am currently trying to write a brand new simple CLI version of the internet
+- I am currently working with the Charolette OS developers to help continue making their OS.
 - Pronouns: he/him
