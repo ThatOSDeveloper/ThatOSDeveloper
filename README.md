@@ -1,3 +1,3 @@
 - Hi, I’m @ThatOSDeveloper
-- I am currently working with the Charolette OS developers to help continue making their OS.
+- I am currently working on nothing
 - Pronouns: he/him
